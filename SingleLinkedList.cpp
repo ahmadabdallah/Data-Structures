@@ -90,6 +90,10 @@ public:
 	}
 	void Reverse()
 	{
+
+	}
+	void ReversebyCount()
+	{
 		if(nodeCount==0)
 		{
 			cout<<"The List is Empty \n";
